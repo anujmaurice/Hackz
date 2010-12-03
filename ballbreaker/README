@@ -1,0 +1,3 @@
+Please execute java -jar ballbreaker.jar to start the application
+The game uses a java gaming engine [JGame] which polishes things a bit
+
