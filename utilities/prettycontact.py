@@ -1,3 +1,5 @@
+# used for pretty printing the contacts backed up from samsung mobile [vcf format]
+#2nd Sept 2011
 import os
 import time
 path_to_contact = '/home/anuj/backup/contacts_1_9_2011/'
